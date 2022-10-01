@@ -2,7 +2,7 @@ baseURL: "https://khaledngm11.github.io/portfolio/"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
-canonifyurls: true
+
 Paginate: 3
 disqusShortname: gurusabarish
 googleAnalytics: G-DWJJVE27WD
